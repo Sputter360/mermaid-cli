@@ -228,3 +228,7 @@ it installs (`mmdc`).  `npx -p @mermaid-js/mermaid-cli mmdc -h`
 ## For contributors
 
 Contributions are welcome. See the [contribution guide](CONTRIBUTING.md).
+
+## AI作業の再開
+
+[PROJECT_STATUS](PROJECT_STATUS.md) → [AGENTS](AGENTS.md) → [引き継ぎ監査・改善計画](docs/HANDOFF_AUDIT.md) の順に確認してください。現在のbranch/commit、未統合成果、今回と過去の検証を区別し、[引き継ぎ記録](docs/HANDOFF_TEMPLATE.md)を残します。
